@@ -1,0 +1,4 @@
+sqlite3
+pylint
+pandas
+scipy

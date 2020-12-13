@@ -1,0 +1,3 @@
+def function(a, b=8, c):
+    print(a, b, c)
+function(4, 3)

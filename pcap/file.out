@@ -1,0 +1,5 @@
+hello world
+Enter your name: Traceback (most recent call last):
+  File "block1.py", line 11, in <module>
+    infile = opn('file.in', 'r')
+NameError: name 'opn' is not defined
